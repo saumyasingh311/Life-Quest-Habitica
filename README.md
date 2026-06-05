@@ -1,10 +1,6 @@
-# 🌟 Habit Tracker Web App
+# 🌟 Life Quest Habitica
 
 A beautiful, modern web application to track your daily habits with gamification elements, built with React and Vite. All data is stored locally in your browser using localStorage, ensuring privacy and offline functionality.
-
-🌐 **[Live Demo](https://theunknown550.github.io/Habit-Tracker-Web-App/)** - Try it now!
-
-![Habit Tracker Demo](./demo.gif) <!-- Placeholder for demo GIF -->
 
 ## 📋 Table of Contents
 
